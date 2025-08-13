@@ -1,1 +1,1 @@
-# Spring-boot-using-CRUD
+A simple CRUD web application built using **Spring Boot**, **Spring Data JPA**, and **MySQL**.
